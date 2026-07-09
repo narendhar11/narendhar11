@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Hi%20there,%20I'm%20Narendhar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=narendhar11&label=Profile%20Views&color=6D28D9&style=flat-square" alt="profile views"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Senior+Software+Engineer+%7C+10%2B+Years;Building+with+FastAPI+%2C+Flutter+%26+Agentic+AI;Docker+%2B+Redis+%2B+Nuxt+%3D+Clean+Systems" alt="Typing SVG" />
