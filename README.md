@@ -20,13 +20,13 @@
 
 I'm **Chiluka Narendhar**, a Senior Software Engineer with **10+ years** of experience designing and shipping production systems — from mobile apps to AI-powered backends. I like building things that are fast, clean, and actually ship.
 
-Outside of writing code, I create content to share what I learn — catch me on LinkedIn and GitHub.
+Outside of writing code, I share what I learn — catch me on LinkedIn and GitHub.
 
-- 🔭 Currently building **agentic AI systems** and full-stack products
-- 🌱 Deep-diving into **LLM orchestration & agent frameworks**
-- 🎯 Obsessed with clean architecture and low-cost, high-leverage tech stacks
-- ☕ Fueled by coffee and the occasional 2 AM production hotfix
-- 📹 Sharing real engineering, not just tutorials
+- 🔭 Building **agentic AI systems** and full-stack products end-to-end
+- ⚡ Shipped **Kinetica** — a production Flutter wellness app live on Google Play
+- ⚙️ Working daily across **FastAPI, Flutter, Nuxt, Docker & Redis**
+- 🎯 Big believer in clean architecture and low-cost, high-leverage tech stacks
+- 🧠 10+ years turning messy requirements into shippable, reliable systems
 
 ---
 
@@ -55,7 +55,24 @@ Outside of writing code, I create content to share what I learn — catch me on 
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Featured Project
+
+### [Kinetica — Turn Every Step Into Momentum](https://github.com/narendhar11/KINETICA)
+
+A production-ready Flutter step counter & wellness app — hardware step tracking, calorie/BMI/TDEE insights, streaks & achievements, home screen widgets (Android + iOS), and a dark-first "Cosmic Momentum" design system.
+
+- 📈 Weekly/monthly progress dashboards, 7-day & 30-day charts, fat-loss projections
+- 🏆 Streaks with grace-day logic, milestone tracking, 10 achievement badges
+- 📱 Native home screen widgets — Glance API (Android) + WidgetKit (iOS)
+- 🔬 Fitness formulas backed by ACSM, WHO, CDC & peer-reviewed research
+- 🌓 Dark/light/auto themes, metric/imperial units, CSV export
+
+`Flutter` `Riverpod` `Drift (SQLite)` `GoRouter` `AdMob`
+
+<a href="https://play.google.com/store/apps/details?id=com.noveltify.kinetica"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://github.com/narendhar11/KINETICA"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+---
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=narendhar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
