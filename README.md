@@ -20,7 +20,7 @@
 
 I'm **Chiluka Narendhar**, a Senior Software Engineer with **10+ years** of experience designing and shipping production systems — from mobile apps to AI-powered backends. I like building things that are fast, clean, and actually ship.
 
-Outside of writing code, I create content to share what I learn — catch me on YouTube, Medium, and Instagram.
+Outside of writing code, I create content to share what I learn — catch me on Linkedin.
 
 - 🔭 Currently building **agentic AI systems** and full-stack products
 - 🌱 Deep-diving into **LLM orchestration & agent frameworks**
