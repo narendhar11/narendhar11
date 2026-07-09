@@ -51,20 +51,6 @@ Outside of writing code, I create content to share what I learn — catch me on 
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-<a href="[YOUR_YOUTUBE_URL]"><img src="https://img.shields.io/badge/YouTube-[X]_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="[YOUR_MEDIUM_URL]"><img src="https://img.shields.io/badge/Medium-[X]_Followers-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-[X]_Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chiluka-narendhar-6b353337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-> Replace `[YOUR_YOUTUBE_URL]`, `[YOUR_MEDIUM_URL]`, `[YOUR_INSTAGRAM_URL]`, `[YOUR_PORTFOLIO_URL]` and the `[X]` counts with your real links/numbers before committing.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,6 +73,8 @@ Outside of writing code, I create content to share what I learn — catch me on 
 ---
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/chiluka-narendhar-6b353337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 🤝 Let's Connect
 
