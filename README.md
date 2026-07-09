@@ -57,7 +57,7 @@ Outside of writing code, I share what I learn — catch me on LinkedIn and GitHu
 
 ## ⚡ Featured Project
 
-### [Kinetica — Turn Every Step Into Momentum](https://github.com/narendhar11/KINETICA)
+### ⚡ Kinetica — Turn Every Step Into Momentum
 
 A production-ready Flutter step counter & wellness app — hardware step tracking, calorie/BMI/TDEE insights, streaks & achievements, home screen widgets (Android + iOS), and a dark-first "Cosmic Momentum" design system.
 
@@ -70,7 +70,6 @@ A production-ready Flutter step counter & wellness app — hardware step trackin
 `Flutter` `Riverpod` `Drift (SQLite)` `GoRouter` `AdMob`
 
 <a href="https://play.google.com/store/apps/details?id=com.noveltify.kinetica"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
-<a href="https://github.com/narendhar11/KINETICA"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
